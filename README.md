@@ -54,17 +54,6 @@ Make sure you have the following installed:
    jupyter notebook kaggle.ipynb
    ```
 
-3. Run the cells to reproduce the analysis.
-
-## 📈 Sample Visualizations
-
-* Price trends over time for different futures.
-* Correlation heatmap of numerical features.
-* Volume analysis by resource type.
-
-
-
----
 
 > **Note**: The dataset is derived from open-source/public trading platforms. Please verify licensing before using it for commercial purposes.
 
